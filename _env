@@ -1,0 +1,6 @@
+REACT_APP_GDAX_API_KEY=3aeafcb707316aa987c064455388805e
+REACT_APP_GDAX_API_KEY_SEC=MuBHz6M+9z6OItfzDABtvghgJGvk8X0SIvfm+NNo/Fz/yxl3TJo13Ol6vv+1A6k2HfrONRHs2VnlqKoAf5BVag==
+REACT_APP_GDAX_API_PASS=5ixu6tbqpym
+REACT_APP_PROXY_URI=http://localhost:8080/
+REACT_APP_GDAX_API_URI=https://api.pro.coinbase.com
+REACT_APP_GDAX_SANDBOX_URI=https://api-public.sandbox.pro.coinbase.com
